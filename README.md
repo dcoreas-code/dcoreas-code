@@ -21,7 +21,7 @@ Me apasiona construir cosas: desde páginas web hasta proyectos con Arduino. Sie
 - 📍 Jucuapa, El Salvador
 - 💻 Aprendiendo desarrollo web y de software
 - 🤖 Interesado en electrónica y robótica
-- 🌱 Actualmente aprendiendo JavaScript avanzado y Python
+- 🌱 Actualmente aprendiendo Python
 
 ---
 
@@ -54,7 +54,6 @@ Me apasiona construir cosas: desde páginas web hasta proyectos con Arduino. Sie
 - [ ] Aprender React y desarrollo frontend moderno
 - [ ] Explorar bases de datos y backend
 - [ ] Combinar robótica con software propio
-- [ ] Contribuir a mi primer proyecto open source
 
 ---
 
