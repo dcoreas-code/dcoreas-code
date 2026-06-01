@@ -1,74 +1,85 @@
-<h1 align="left">¡Hola Mundo!🚀</h1>
-
-###
-
-<p align="left">¡Bienvenido a mi perfil de GitHub! Soy un estudiante de segundo año del Bachillerato Técnico Vocacional en Desarrollo de Software en el Instituto Nacional de Jucuapa (INJU).</p>
-
-###
-
-<div align="left">
-  <img height="200" src="https://media.tenor.com/DZvLHmSYJd4AAAAj/pok%C3%A9mon-garchomp-pok%C3%A9mon.gif"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diego%20Coreas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Estudiante%20de%20Desarrollo%20de%20Software%20🚀&descAlignY=55&descAlign=50" />
 </div>
 
-###
+## Hola, soy Diego 👋
 
-<h2 align="left">Tecnologías y Herramientas</h2>
+Estudiante de segundo año del **Bachillerato Técnico Vocacional en Desarrollo de Software** en el Instituto Nacional de Jucuapa (INJU), El Salvador 🇸🇻.
 
-###
+Me apasiona construir cosas: desde páginas web hasta proyectos con Arduino. Siempre buscando aprender algo nuevo.
 
-<p align="left">Desarrollo de Software & Web</p>
+---
 
-###
+## Sobre mí
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+- 🎓 Estudiante de Desarrollo de Software · INJU
+- 📍 Jucuapa, El Salvador
+- 💻 Aprendiendo desarrollo web y de software
+- 🤖 Interesado en electrónica y robótica
+- 🌱 Actualmente aprendiendo JavaScript avanzado y Python
 
-###
+---
 
-<p align="left">Electrónica & Robótica</p>
+## Stack tecnológico
 
-###
+**Desarrollo Web & Software**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>
 </div>
 
-###
+**Electrónica & Robótica**
 
-<h2 align="center">Estadísticas de GitHub</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" title="Arduino"/>
+</div>
 
-###
+---
+
+## Objetivos 2025–2026
+
+- [ ] Aprender React y desarrollo frontend moderno
+- [ ] Explorar bases de datos y backend
+- [ ] Combinar robótica con software propio
+- [ ] Contribuir a mi primer proyecto open source
+
+---
+
+## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dcoreas-code/dcoreas-code/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/dcoreas-code/dcoreas-code/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dcoreas-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Estadísticas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcoreas-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dcoreas-dev&theme=tokyonight&hide_border=true" width="60%" alt="Racha de commits"/>
+</div>
 
-<p align="left"></p>
-
-###
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dcoreas-dev/dcoreas-dev/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dcoreas-dev/dcoreas-dev/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dcoreas-dev/dcoreas-dev/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Gráfica de contribuciones Pac-Man" src="https://raw.githubusercontent.com/dcoreas-dev/dcoreas-dev/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dcoreas-dev.dcoreas-dev&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dcoreas-dev.dcoreas-dev" alt="Visitas al perfil"/>
+  <br/><br/>
+  <em>Gracias por visitar mi perfil · Siempre aprendiendo 🚀</em>
 </div>
 
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
