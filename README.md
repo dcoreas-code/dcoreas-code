@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diego%20Coreas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Estudiante%20de%20Desarrollo%20de%20Software%20🚀&descAlignY=55&descAlign=50" />
 </div>
 
+<div align="center">
+  <img src="https://media.tenor.com/DZvLHmSYJd4AAAAj/pok%C3%A9mon-garchomp-pok%C3%A9mon.gif" height="160" alt="Garchomp"/>
+</div>
+
+
 ## Hola, soy Diego 👋
 
 Estudiante de segundo año del **Bachillerato Técnico Vocacional en Desarrollo de Software** en el Instituto Nacional de Jucuapa (INJU), El Salvador 🇸🇻.
