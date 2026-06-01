@@ -49,8 +49,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dcoreas-dev/dcoreas-dev/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/dcoreas-dev/dcoreas-dev/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/dcoreas-code/dcoreas-code/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/dcoreas-code/dcoreas-code/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
